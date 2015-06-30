@@ -1,15 +1,19 @@
 # FAZENDO O PRIMEIRO PUSH #
 
 
-## Passo a passo das intruções do push ##
+## Instruções para realização do push ##
 
-1 - O arquivo README.md foi criado na raiz do repositório local.
+1 - O arquivo README.md foi criado (pelo editor vim do git bash) na raiz do repositório git local.
 
-2 - Foi utilizado o comando `git add README.md`.
+2 - Foi utilizado o comando `$ git add README.md`.
 
-3 - Foi realizado o commit do arquivo `git commit -m 'Adicionando arquivo README'`
-4 - Foi utilizado o comando `git remote add origin https://github.com/belloribes/git-code-education.git`
-5 - Foi utilizado o comando `git push origin master` e o arquivo README.md está agora no repositório remoto do git.
+3 - Foi realizado o commit do arquivo com o comando `$ git commit -m 'Adicionando arquivo README'`
+
+4 - Foi utilizado o comando `$ git remote add origin https://github.com/belloribes/git-code-education.git`
+
+5 - Foi utilizado o comando `$ git push origin master` e o arquivo README.md está agora no repositório remoto do git.
 
 
+
+Fim das instruções do primeiro commit.
 
