@@ -1,1 +1,1 @@
-<?php echo "teste modificado" ?>
+<?php echo 'olá mundo!'; ?>
